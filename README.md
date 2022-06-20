@@ -7,6 +7,9 @@
 [![LindedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorran-rocha-dos-santos-b4b1aa172/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lrswebsites)
 
+
+
+
 ## Tecnologias que utilizo no meu dia a dia
 
 <div style="display: inline_block"><br/>
