@@ -1,9 +1,8 @@
-### Hello everyone!!!🐇🎩
+### Hello everyone!!!
 ### Eu sou o Lorran Rocha!
 
 ![Lorran GitHub stats](https://github-readme-stats.vercel.app/api?username=LorranRocha&show_icons=true&theme=dracula)
 
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.lorranrocha.com/)
 [![LindedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorran-rocha-dos-santos-b4b1aa172/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lrswebsites)
 
@@ -18,4 +17,4 @@
     <img align="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </div><br/><br/>
 
-Apaixonado por tecnologia, programação, hacking e muuuito ☕💖
+Apaixonado por Tecnologia, Programação, Segurança da Informação e muuuito ☕💖
